@@ -22,4 +22,6 @@ Shinobi is the Open Source CCTV platform written in Node.JS. Designed with multi
   - Get monitors
   - Change monitor modes : Disabled, Watch, Record
   - Embedding streams
+  
+  
 test
